@@ -1,4 +1,4 @@
-{
+{ 
   "public": {
     "default": {
       "commerce-core-endpoint": "https://www.aemshop.net/graphql",
